@@ -1,0 +1,83 @@
+.color1 {
+  background-color: #2b2e4a;
+}
+.color2 {
+  background-color: #e84545;
+}
+.color3 {
+  background-color: #903749;
+}
+.color4 {
+  background-color: #53354a;
+}
+
+.banner {
+  height: 80vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/banner.jpg);
+}
+
+.highlight-kategori {
+  border: solid;
+  height: 250px;
+}
+.no-text-deco {
+  text-decoration: none;
+  color: white;
+}
+.no-text-deco:hover {
+  color: #e84545;
+}
+.tharga {
+  font-size: 20px;
+  color: #e84545;
+}
+
+.k-keyboard {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../img/kkeyboard.png);
+  background-size: cover;
+  background-position: center;
+}
+.k-mouse {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../img/kmouse.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.k-ram {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../img/kram.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.img-box {
+  height: 250px;
+}
+.img-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.content-subscribe {
+  background-color: #903749;
+}
+
+.banner2 {
+  height: 50vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/ban.jpg);
+  background-position: 70% 50%;
+}
+.list-group a {
+  text-decoration: none;
+}
+.pdterkait {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
